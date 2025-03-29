@@ -1,0 +1,29 @@
+PID,location,age,gender,Ambitious,Influential,Successful,Capable,Intelligent,Preserving Human's Public Image,Social Power,Authority,Wealth,Social Recognition,National Security,Sense of Belonging,Reciprocation of Favors,Clean,Healthy,Social Order,Family Security,Obedient,Politeness,Self-Discipline,Honoring of Parents and Elders,Accepting my Portion in Life,Moderate,Respect for Tradition,Humble,Devout,Detachment,Self-Respect,Choosing Own Goals,Creativity,Curious,Independent,Freedom,An Exciting Life,A Varied Life,Daring,Pleasure,Enjoying Life,Loyal,Responsible,Mature Love,True Friendship,Honest,Forgiving,A Spiritual Life,Meaning in Life,Helpful,Equality,Inner Harmony,A World at Peace,Unity With Nature,Wisdom,A World of Beauty,Social Justice,Broad-Minded,Protect the Environment
+P85,United States,18-24 years old,Man,1,1,0,2,0,2,-2,-1,N/A,-2,-2,-1,1,1,N/A,2,2,1,1,1,2,-2,-1,1,1,-2,1,2,-1,2,1,-1,-1,-1,-2,-1,1,-2,2,1,-2,1,1,1,-1,1,0,1,1,2,-1,1,0,2,0,2
+P86,United States,45 - 54 years old,Woman,0,-1,0,1,1,0,-1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,0,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1,0,1,1,0,0,0,0,0,0,0,0
+P87,United Kingdom,Age 65 or older,Man,0,0,1,1,0,0,-1,-1,-1,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+P88,United Kingdom,25-34 years old,Woman,N/A,N/A,N/A,N/A,N/A,0,0,0,2,0,0,-1,0,1,0,2,2,2,2,2,1,0,0,1,1,0,0,2,2,2,2,2,1,1,0,0,0,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+P89,United Kingdom,45 - 54 years old,Woman,0,-1,0,N/A,2,0,-2,-2,-2,-2,2,-2,-2,N/A,N/A,0,N/A,2,1,0,N/A,N/A,N/A,1,0,N/A,N/A,0,-2,-2,-2,1,-2,-2,-2,-2,-2,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,0,1,2,N/A,1,N/A,N/A,N/A,2,2,2
+P90,United States,Prefer not to say,Man,2,2,2,1,2,1,-1,2,1,2,2,1,1,1,2,1,2,2,1,1,1,-2,0,1,2,1,-1,2,1,2,0,2,1,1,1,1,1,2,2,1,1,1,2,1,1,2,1,1,1,2,1,2,2,1,2,2
+P91,United Kingdom,45 - 54 years old,Woman,1,1,2,2,2,2,1,0,-1,1,2,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1,0,1,0,0,-1,0,0,0,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1
+P92,Canada,25-34 years old,Woman,N/A,0,2,2,2,1,-2,-2,-2,0,1,-1,-1,1,N/A,1,N/A,2,2,N/A,1,N/A,2,-1,0,-2,0,N/A,-2,0,0,-1,-2,N/A,N/A,-2,-2,-2,1,2,-2,-1,2,N/A,-2,N/A,2,1,0,1,1,0,0,1,2,2
+P93,Canada,18-24 years old,Woman,2,1,2,2,2,N/A,-1,-2,N/A,2,N/A,0,1,2,1,2,2,2,2,N/A,-1,N/A,2,-1,N/A,-2,-2,N/A,-1,1,2,N/A,1,N/A,1,-2,1,N/A,-1,2,1,N/A,2,-1,-2,N/A,2,1,N/A,1,N/A,1,-2,1,2,N/A
+P94,Canada,35 - 44 years old,Woman,0,1,1,2,2,1,-2,-2,-1,0,1,1,0,1,2,1,2,0,2,1,1,0,1,1,1,0,0,2,2,1,1,1,2,1,1,0,1,2,1,2,1,1,2,1,0,1,2,2,1,2,1,2,1,1,1,2
+P95,Canada,18-24 years old,Woman,1,2,1,2,N/A,N/A,-1,-1,0,1,0,2,1,2,1,2,2,1,0,2,N/A,1,0,2,1,-1,0,2,1,2,2,1,0,1,0,1,0,1,2,2,1,2,2,1,-1,1,2,2,1,2,2,0,2,1,2,N/A
+P96,Germany,25-34 years old,Woman,2,2,2,2,2,1,2,1,2,1,0,1,N/A,2,1,2,2,2,2,2,2,1,2,0,2,-1,-2,1,2,2,0,2,2,-1,2,-2,0,-2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+P97,Germany,18-24 years old,Man,2,1,2,2,2,2,-2,-2,-2,-2,1,-1,1,0,0,2,0,2,2,1,0,0,2,2,2,0,0,1,-2,1,1,-1,-1,0,1,-1,-2,0,2,2,-2,-2,2,1,-1,-2,2,2,1,2,0,1,0,2,2,2
+P98,Germany,18-24 years old,Man,2,1,2,2,0,2,-1,-2,-2,-1,2,1,1,2,-1,2,0,1,2,1,2,1,0,0,2,-2,-1,1,1,-1,-1,0,1,0,1,-1,1,1,1,1,2,2,2,2,2,1,1,1,1,2,1,-1,-1,2,2,2
+P99,Germany,25-34 years old,Gender not listed,0,0,1,1,2,1,-2,-1,0,0,0,2,1,1,1,-1,2,1,2,1,-1,0,1,-1,-1,-2,0,1,1,1,2,1,1,1,1,0,0,1,2,2,2,2,2,2,0,1,2,2,2,2,2,2,1,2,2,2
+P100,Australia,25-34 years old,Woman,N/A,1,2,2,N/A,N/A,-2,-2,N/A,1,1,0,N/A,N/A,N/A,N/A,N/A,1,1,N/A,N/A,N/A,N/A,N/A,N/A,-2,1,-2,-2,-2,-2,2,-2,-2,-2,-2,-2,-2,N/A,1,-2,-2,N/A,N/A,-2,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+P101,Australia,25-34 years old,Man,0,0,1,1,1,0,-2,-2,-2,1,-1,1,0,1,-2,0,1,0,2,0,-1,-1,0,-2,1,-2,0,1,1,0,-1,0,1,1,1,-1,0,1,1,1,0,1,2,0,-2,1,1,2,1,2,0,1,0,2,1,1
+P102,Australia,25-34 years old,Woman,0,1,2,2,1,0,-1,-1,-2,1,1,0,1,N/A,N/A,2,N/A,2,1,1,1,1,2,1,1,0,0,1,0,0,0,-1,-1,0,-1,-2,0,-2,2,2,0,-2,1,1,0,2,2,2,0,2,1,1,1,1,1,0
+P103,Australia,45 - 54 years old,Woman,1,-1,1,1,1,1,-2,-1,1,2,1,2,-1,1,2,1,2,1,1,1,1,-1,1,1,1,N/A,-2,2,1,1,1,1,2,1,1,0,0,1,1,1,1,1,1,2,0,1,1,2,1,2,2,1,1,2,2,2
+P104,India,45 - 54 years old,Man,0,0,2,2,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+P105,India,25-34 years old,Woman,2,1,2,2,2,1,-1,1,N/A,1,2,-1,1,2,N/A,1,2,2,2,1,1,-1,1,2,2,-2,2,1,-2,1,2,-1,-1,-1,1,-1,-1,-1,2,2,-2,-1,2,1,-2,1,2,2,1,2,-1,1,2,-1,2,2
+P106,India,45 - 54 years old,Man,N/A,-1,1,1,2,1,-2,-1,0,N/A,N/A,-1,-1,2,N/A,-1,-2,N/A,1,-2,N/A,-1,2,N/A,-1,N/A,1,-2,2,1,-1,N/A,1,N/A,-1,-2,2,N/A,N/A,1,-2,N/A,1,N/A,N/A,-2,2,2,-1,2,-2,N/A,1,N/A,-1,-2
+P107,India,45 - 54 years old,Man,N/A,2,2,2,2,2,0,2,N/A,2,2,N/A,2,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,1,N/A,N/A,2,2,N/A,2,N/A,N/A,N/A,N/A,2,N/A,N/A,2,N/A,N/A,N/A,2,2,N/A,1,1,N/A,N/A,2,2,2
+P108,France,25-34 years old,Woman,2,1,0,1,0,0,-1,-1,0,0,-1,-1,1,2,2,2,0,1,1,1,0,0,2,0,0,1,-2,N/A,-2,0,-2,-2,-1,0,0,0,0,-2,1,1,-2,1,1,0,0,1,0,1,1,0,-2,2,2,1,-1,-1
+P109,France,45 - 54 years old,Woman,1,1,2,2,2,0,-1,1,-2,N/A,2,-1,2,2,N/A,2,2,2,1,N/A,N/A,N/A,N/A,-1,N/A,N/A,-1,0,-2,0,-1,-1,-1,-1,0,-2,-2,N/A,2,2,-2,1,1,1,-2,0,1,1,2,2,2,2,2,1,1,2
+P110,France,45 - 54 years old,Man,2,0,2,2,2,2,1,0,-1,0,-1,0,-1,1,2,2,1,2,2,2,2,1,2,1,2,0,2,0,0,2,2,2,1,1,2,2,0,1,2,2,1,1,2,2,1,1,2,2,0,2,2,2,1,2,2,1
+P111,France,25-34 years old,Man,2,1,1,0,1,0,-1,-1,-1,1,2,1,-1,-1,N/A,0,-1,2,2,2,-1,0,2,N/A,0,0,2,0,1,-2,N/A,2,0,N/A,0,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,1,-1,0,2,0,N/A,N/A,N/A,N/A,N/A
+P112,United States,55 - 64 years old,Man,1,1,1,1,-1,1,1,1,N/A,1,1,N/A,N/A,N/A,N/A,1,1,1,1,N/A,1,N/A,N/A,1,1,N/A,1,N/A,1,1,1,N/A,2,N/A,1,N/A,N/A,N/A,1,1,N/A,N/A,1,1,N/A,N/A,1,1,N/A,1,N/A,1,1,1,1,1
